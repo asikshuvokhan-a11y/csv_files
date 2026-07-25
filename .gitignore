@@ -1,0 +1,5 @@
+/.DS_Store
+/company_dim.csv
+/job_postings_fact.csv
+/skills_dim.csv
+/skills_job_dim.csv
