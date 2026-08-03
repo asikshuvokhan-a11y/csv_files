@@ -326,7 +326,6 @@ What I Found Out:
 
 
 # What I Learned
-# What I Learned
 
 Throughout this project, I strengthened my SQL skills and gained practical experience analyzing real-world job market data:
 
