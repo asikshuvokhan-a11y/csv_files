@@ -140,6 +140,7 @@ LIMIT
 
 Bar chart showing the top 5 most demanded skills for remote Data Analyst jobs.
 
+<pre>
 Skill          Demand Count
 ---------------------------
 SQL                   7,291
@@ -147,7 +148,7 @@ Excel                 4,611
 Python                4,330
 Tableau               3,745
 Power BI              2,609
-
+</pre>
 
 What I Found Out:
 SQL is #1 by far: SQL appeared in 7,291 job posts, making it the most asked-for skill on the list.
@@ -325,7 +326,7 @@ What I Found Out:
 
 
 
-# What I Learned
+
 # What I Learned
 
 Throughout this project, I strengthened my SQL skills and gained practical experience analyzing real-world job market data:
